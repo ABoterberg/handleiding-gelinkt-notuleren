@@ -4,7 +4,7 @@
 
 In dit voorbeeld maken we gebruik van de open source software ATOM \(atom.io\).
 
-### 
+
 
 ### 1. Voorbereiding 
 
