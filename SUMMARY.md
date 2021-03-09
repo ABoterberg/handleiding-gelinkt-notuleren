@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Handleiding-gelinkt-notuleren](README.md)
+* [Main?](README.md)
 
 ## Handleidingen GN
 
