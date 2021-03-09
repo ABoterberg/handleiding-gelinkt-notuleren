@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Main?](README.md)
+* [Main](README.md)
 
 ## Handleidingen GN
 
