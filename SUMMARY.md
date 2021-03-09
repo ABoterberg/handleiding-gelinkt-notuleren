@@ -8,5 +8,5 @@
 
 ## TestPage Toegankelijkheid
 
-* [Untitled](testpage-toegankelijkheid/untitled.md)
+* [Dit is de titel van de testpagina: GitBook toegankelijkheid](testpage-toegankelijkheid/untitled.md)
 
