@@ -48,7 +48,7 @@ Deze tekst staat in een code block.
 
 > Dit is een quote volgens gitbook
 
-![Dit is de &quot;link-tekst&quot; van een foto, op deze foto zie je Pelle een dikke FS air leggen. ](../.gitbook/assets/922542_10200977977474285_936822962_o-2.jpg)
+![](../.gitbook/assets/922542_10200977977474285_936822962_o-2.jpg)
 
 | tabelhoofding 1 | tabelhoofding2 |
 | :--- | :--- |
