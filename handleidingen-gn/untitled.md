@@ -1,5 +1,7 @@
 # Hoe de handleiding aanpassen mét html editor
 
+### Titels en paragraven
+
 Dit is een TITEL van het niveau 1
 
 ### Dit is een TITEL van het niveau 2
@@ -14,7 +16,7 @@ Is dit een paragraaf?
 
 "Dit is een paragraaf met quotes voor en achter."
 
-
+### lijsten
 
 * Dit 
 * is 
